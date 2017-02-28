@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+	
+	
+	
+	<producto id="02"><nombre>XBOX 360</nombre><precio>250000</precio></producto><producto id="45"><nombre>Zapatos</nombre><precio>12345</precio></producto><producto id="123"><nombre>Pantalon</nombre><precio>15500</precio></producto></productos>
